@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cgomez80
+- 👋 Hi, I’m <b>Clarence :3</b>
 - 👀 I’m interested in ... Information Technology & Programming!
 - 🌱 I’m currently learning ... HTML/CSS & JavaScript
 - 💞️ I’m looking to collaborate on ... nothing rn 
